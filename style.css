@@ -23,14 +23,22 @@ hr{
   border-radius: 300px;
   text-transform:uppercase;
   padding:1em 2em;
+  transition: .5s;
 }
 .btn-primary{
   background-color: orange;
   border-color: orange;
 
 }
+.buffer{
+  height: 10rem;
+}
 .btn-primary:hover{
   background-color: black ;
   border-color: orange;
-  /* border-width: 1em; */
+  padding:1.5em 2.5em;
+}
+.container{
+  width: 100%;
+  height: 100%;
 }
