@@ -12,6 +12,7 @@ body, html {
 h1{
   color:white;
   font-size: 3 rem;
+  padding-botto:1em;
 }
 hr{
   border-color: orange;
